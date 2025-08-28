@@ -26,7 +26,8 @@ Cluster	Visit Score	Spending Rank	Interpretation
 1	Low	Low	Unbothered Users
 3	Low	High	Occasional Spenders
 4	High	Low	Casual Users
-    
+
+Streamlit App link : https://cluster-insta-users.streamlit.app/
 
 This project is for educational and academic purposes only.
 
